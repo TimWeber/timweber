@@ -4,7 +4,7 @@ I'm a highly driven final year BEng Robotics student at the University of the We
 
 <br />
 
-#### What I'm up to:
+### What I'm up to:
 - 🔭 I’m currently working on my undergrad dissertation
 - 🌱 I’m currently learning Python
 -  🥅 2020/21 Goals: Complete my BEng Robotics undergrad and start my MSc in Health Technology
