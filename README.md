@@ -1,13 +1,13 @@
 ## Hi I'm Tim, A Final Year BEng Robotics Student
 #### A bit about me:
-I'm a highly driven final year BEng Robotics student at the University of the West of England. After completing my undergrad I'm looking to start my postgrad in Health Technology (MSc), also at the University of the West of England, with the hopes of working in either medical robotics or assisted living. Outside of my studies, I am a keen sportsman, playing cricket for the university as well as rock climbing in my spare time.
+I'm a highly driven final year BEng Robotics student at the University of the West of England. After completing my undergrad I'm looking to progress into in either medical robotics or assisted living. Outside of my studies, I am a keen sportsman, playing cricket for the university as well as rock climbing in my spare time.
 
 <br />
 
 ### What I'm up to:
-- 🔭 I’m Working on my undergrad dissertation
+- 🔭 I’m Finishing my BEng Robotics undergrad
 - 🌱 I’m learning Python
--  🥅 2020/21 Goals: Complete my BEng Robotics undergrad
+- 🥅 2020/21 Goals: Complete my BEng Robotics undergrad and progress into my postgrad studies
 
 <br />
 
