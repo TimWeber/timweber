@@ -1,6 +1,6 @@
 ## Hi I'm Tim, a recent Robotics graduate from the University of the West of England
 #### A bit about me:
-I'm a highly driven final year MSc Health Technology student at the University of the West of England. I am a 1st Class BEng (Hons) Robotics graduate currently exploring deep learning and the benefits within medicine. Outside of my studies, I am a keen sportsman, playing cricket for the university as well as rock climbing in my spare time.
+I'm a highly driven MSc Health Technology student at the University of the West of England. I graduated my BEng (Hons) Robotics undergrad with a 1st class and I'm currently exploring deep learning and the benefits within medicine. Outside of my studies, I am a keen sportsman, playing cricket for the university as well as rock climbing in my spare time.
 
 <br />
 
