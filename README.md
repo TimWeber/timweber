@@ -1,36 +1,20 @@
-## Hi I'm Tim, a recent Robotics graduate from the University of the West of England
-#### A bit about me:
-I'm a highly driven MSc Health Technology student at the University of the West of England. I graduated my BEng (Hons) Robotics undergrad with a 1st class and I'm currently exploring deep learning and the benefits within medicine. Outside of my studies, I am a keen sportsman, playing cricket for the university as well as rock climbing in my spare time.
+![](https://github.com/TimWeber/timweber/blob/master/Banner.png)
 
-<br />
+<h4 align="left"><b>About Me:</b> </h4>
+<p>I've recently graduated my BEng (Hons) Robotics undergrad with a 1st class and I'm currently diving into the world of deep learning and exploring the benefits within health care. Outside of my studies, I am a keen sportsman, having played cricket for the university and when I can find the time, try a bit of rock climbing.</p>
 
-### What I'm up to:
-- 🔭 I’m Finishing my Post-grad
-- 🌱 I’m diving into the world of PyTorch and Torchvision
-- 🥅 2020/21 Goals: Graduate with a distinction.
+🔭 I’m currently **working with AI to try better identify stroke within MRI scan**
 
-<br />
+🌱 I’m currently diving into the world of **Pytorch, Torchvision, MONAI, as well as other medical focused machine and deep learning frameworks**
 
-### Some Of My Work
-Check out some of my hardware-based stuff [here][website]
+🥅 2022 Goal: **To succeed with my masters project and graduate with a distinction.**
 
-<br />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tm-weber/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tm-weber/" height="30" width="40" /></a>
+<a href="/timweber.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="timweber.github.io" height="30" width="40" /></a>
+</p>
 
-#### I'm Comfortable Working With:
-<img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/43787505/89530481-785c8280-d7e6-11ea-8d2d-e8e193035c08.png" />
-<img align="left" alt="MATLAB" width="26px" src="https://user-images.githubusercontent.com/43787505/89530058-c1600700-d7e5-11ea-9e42-01037d15a2fc.png"/>
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<br />
-
-
-#### Find Me On:
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-
-[linkedin]: https://www.linkedin.com/in/tm-weber/
-[website]: 	https://timweber.github.io
