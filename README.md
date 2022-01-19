@@ -1,4 +1,6 @@
-![](https://github.com/TimWeber/timweber/blob/master/Banner.png)
+<a href="https://timweber.github.io">
+  <img src="https://github.com/TimWeber/timweber/blob/master/Banner.png">
+</a>
 
 <h4 align="left"><b>About Me:</b> </h4>
 <p>I've recently graduated my BEng (Hons) Robotics undergrad with a 1st class and I'm currently diving into the world of deep learning and exploring the benefits within health care. Outside of my studies, I am a keen sportsman, having played cricket for the university and when I can find the time, try a bit of rock climbing.</p>
