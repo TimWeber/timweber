@@ -1,5 +1,5 @@
 <a href="https://timweber.github.io">
-  <img src="https://github.com/TimWeber/timweber/blob/master/Banner.png">
+  <img src="https://github.com/TimWeber/timweber/blob/master/Banner - new.png">
 </a>
 
 <h4 align="left"><b>About Me:</b> </h4>
